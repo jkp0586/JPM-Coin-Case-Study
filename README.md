@@ -17,6 +17,7 @@ JPMorgan Chase & Co. is an American multinational investment bank and financial 
 Competitors: Bank of America, Wells Fargo, CitiBank, et al.
 
 2. How does this company use technology to their advantage? Why are they considred a FinTech company?
+
 JPMorgan has digitized virtually all of their business processes to include Online Banking, Mortgage, Auto Loans, etc.
 
 3. Why is this company exmplary in the FinTech space? What are their strengths and weaknesses?
