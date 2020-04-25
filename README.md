@@ -6,7 +6,7 @@
 
 Write description content here
 
-Contributors: Joe Swidersky, Rober Laughry, Jonathan Park
+Contributors: Joe Swidersky, Robert Laughry, Jonathan Park
 
 ### JPM Coin Case Study
 
