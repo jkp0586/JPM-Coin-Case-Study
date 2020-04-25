@@ -2,7 +2,7 @@
 
 ![JPM Coin](jpm-coin.jpg)
 
-## JP Morgan to launch its own cryptocurrency
+## JP Morgan To Launch Its Own Cryptocurrency
 
 Write description content here
 
