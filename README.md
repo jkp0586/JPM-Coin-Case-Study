@@ -11,6 +11,7 @@ Contributors: Joe Swidersky, Robert Laughry, Jonathan Park
 ### JPM Coin Case Study
 
 1. What is the background of your company? What do they do? Who are their competitors?
+
 JPMorgan Chase & Co. is an American multinational investment bank and financial services holding company headquartered in New York City. JPMorgan Chase is ranked by S&P Global as the largest bank in the United States and the sixth largest bank in the world by total assets, with total assets of US$2.687 trillion
 
 Competitors: Bank of America, Wells Fargo, CitiBank, et al.
