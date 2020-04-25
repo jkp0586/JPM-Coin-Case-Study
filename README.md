@@ -1,6 +1,6 @@
 # JPM-Coin-Case-Study
 
-![JPM Coin](JPM-coin.jpg)
+![JPM Coin](jpm-coin.jpg)
 
 ## JP Morgan to launch its own cryptocurrency
 
